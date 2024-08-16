@@ -1,0 +1,7 @@
+.menu-open #menu-btn{
+    display: none;
+}
+
+.menu-open .hamburger-menu{
+    display: flex;
+}
